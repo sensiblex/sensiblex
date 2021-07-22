@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm _**sensiblex**_
 
-### 🌱 I’m currently learning Java ![Alt-текст](https://vetais.com/ru/wp-content/uploads/2020/06/java.jpg)
+### 🌱 I’m currently learning Java
 ### 📫 How to reach me:
   - #### Discord: sensible#0001
   - #### Telegram: [@sensiblex](https://t.me/sensiblex)
