@@ -1,6 +1,11 @@
 ## Hi there 👋 I'm _**sensiblex**_
 
-### 🌱 I’m currently learning Java
+<a href="https://steamcommunity.com/id/animeflame">
+  
+### 🌱 I’m currently learning Java <img align="center" alt="Steam" width="31px" src="https://github.com/sensiblex/sensiblex/blob/main/assets/java_icon.png" />
+  
+</a>
+
 ### 📫 How to reach me:
   - #### Discord: sensible#0001
   - #### Telegram: [@sensiblex](https://t.me/sensiblex)
