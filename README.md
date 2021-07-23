@@ -11,7 +11,4 @@
   - #### Telegram: [@sensiblex](https://t.me/sensiblex)
   - #### Mail: sensible.profile@gmail.com
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sensiblex&show_icons=true&count_private=true&theme=blueberry&hide_border=true">
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sensiblex)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sensiblex&show_icons=true&custom_title=My stats&count_private=true&theme=cobalt&hide_border=false&title_color=329AA8&bg_color=070714">
