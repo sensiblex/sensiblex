@@ -13,6 +13,5 @@
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sensiblex&show_icons=true&count_private=true&theme=blueberry&hide_border=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sensiblex&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)   
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sensiblex)](https://github.com/anuraghazra/github-readme-stats)
 
