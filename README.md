@@ -1,4 +1,4 @@
-## Hi there 👋 I'm _**sensiblex**_
+## Hi there 👋 I'm _**sensible**_
   
 ### 📫 How to reach me:
   - #### Discord: sensible#7364
