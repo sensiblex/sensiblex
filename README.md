@@ -7,7 +7,7 @@
 
 
 ### 📫 How to reach me:
-  - #### Discord: sensible#0001
+  - #### Discord: sensible#7364
   - #### Telegram: [@sensiblex](https://t.me/sensiblex)
   - #### Mail: sensible.profile@gmail.com
 
