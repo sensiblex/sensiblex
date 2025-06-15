@@ -5,7 +5,7 @@
 ## 🛠️ Tech Stack
 ```python
 def my_skills():
-    languages = ["Python", "C++", "C#", "HTML/CSS"] 
+    languages = ["Python", "C++", "C#", "HTML/CSS", "SQL"] 
     tools = ["Git", "VS Code", "Pycharm"]
     learning = ["Algorithms", "Mathematical statistics"]
 ```
