@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm a CS Student, Kazan Federal University, from Russia
+# 👋 Hi there! I'm a Student, from Russia
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=BSc+in+Software+Engineering;Python+%7C+C%2B%2B+%7C+C%23;Open+for+Collaboration)](https://git.io/typing-svg)
 
